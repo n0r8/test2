@@ -7,12 +7,12 @@
 ### What would you improve next time?
   - use currencies symbols if possible to make it more clear in the UI.
   - highlight search results
-	- polling for lates exchange rates and chart data, so user will see correct latest data. With that free API limitations( 5 calls per minute) I think it might be hard.
-	- API for chart contains high, low, close, open values which are not needed for simple chart (I made chart with average between high and low values). And so the exchange rate doesn’t match with last value on chart. I would fix this.
-	- I would add loading and error states for the interface (API error response).
-	- for the chart ability to use other time ranges e.g. 7 days, 1 year…
-	- save to cookies for what user already selected and use it for the next time as preselected values.
-	- Use a currency name and not only a symbol for the search.
+  - polling for lates exchange rates and chart data, so user will see correct latest data. With that free API limitations( 5 calls per minute) I think it might be hard.
+  - API for chart contains high, low, close, open values which are not needed for simple chart (I made chart with average between high and low values). And so the exchange rate doesn’t match with last value on chart. I would fix this.
+  - I would add loading and error states for the interface (API error response).
+  - for the chart ability to use other time ranges e.g. 7 days, 1 year…
+  - save to cookies for what user already selected and use it for the next time as preselected values.
+  - Use a currency name and not only a symbol for the search.
 
 ### `npm start`
 
